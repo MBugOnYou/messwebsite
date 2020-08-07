@@ -118,7 +118,7 @@ class LoginPage extends Component {
     } else {
       return (
         <Fragment>
-          {/* <h1 className="text-center mt-5 logintext">Speaking Audios</h1> */}
+          {/* <h1 className="text-cdfdsenter mt-5 logintext">Speaking Audios</h1> */}
 
           {/* <Typical
                 steps={["Hello", 1000, "Hello world!", 500]}
