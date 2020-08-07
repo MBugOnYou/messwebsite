@@ -1,0 +1,58 @@
+body {
+    background-image: linear-gradient(
+      to right top,
+      #061223,
+      #0f0c1b,
+      #100612,
+      #0b0308,
+      #000000
+    );
+  
+    padding: 0;
+    height: 100%;
+  }
+  
+  .footer {
+    background-color: darkslategrey;
+    color: cornsilk;
+    height: 60px;
+    bottom: 0;
+    width: 100%;
+  }
+  .footertext {
+    padding-top: 1%;
+  }
+  
+  .loaderanimation {
+    width: 180px;
+    height: 180px;
+  }
+  
+  .card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+  .centered {
+    height: 100vh; /* Magic here */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logintext {
+    color: aliceblue;
+  }
+  .white {
+    color: whitesmoke;
+  }
+  .darkorange {
+    color: darkorange;
+  }
+  .customcolor {
+    color: #66ccff;
+  }
+  .black {
+    color: #000000;
+  }
+  
