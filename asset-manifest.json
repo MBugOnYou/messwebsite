@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/messwebsite/static/css/main.903e2afe.chunk.css",
+    "main.js": "/messwebsite/static/js/main.a1f334a2.chunk.js",
+    "main.js.map": "/messwebsite/static/js/main.a1f334a2.chunk.js.map",
+    "runtime-main.js": "/messwebsite/static/js/runtime-main.85c5eb13.js",
+    "runtime-main.js.map": "/messwebsite/static/js/runtime-main.85c5eb13.js.map",
+    "static/css/2.9f8d8b69.chunk.css": "/messwebsite/static/css/2.9f8d8b69.chunk.css",
+    "static/js/2.91a9181d.chunk.js": "/messwebsite/static/js/2.91a9181d.chunk.js",
+    "static/js/2.91a9181d.chunk.js.map": "/messwebsite/static/js/2.91a9181d.chunk.js.map",
+    "index.html": "/messwebsite/index.html",
+    "precache-manifest.816c0dccba17cdbde74fe6953cf90154.js": "/messwebsite/precache-manifest.816c0dccba17cdbde74fe6953cf90154.js",
+    "service-worker.js": "/messwebsite/service-worker.js",
+    "static/css/2.9f8d8b69.chunk.css.map": "/messwebsite/static/css/2.9f8d8b69.chunk.css.map",
+    "static/css/main.903e2afe.chunk.css.map": "/messwebsite/static/css/main.903e2afe.chunk.css.map",
+    "static/js/2.91a9181d.chunk.js.LICENSE.txt": "/messwebsite/static/js/2.91a9181d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/messwebsite/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/loading.svg": "/messwebsite/static/media/loading.9064981b.svg",
+    "static/media/logo.svg": "/messwebsite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c5eb13.js",
+    "static/css/2.9f8d8b69.chunk.css",
+    "static/js/2.91a9181d.chunk.js",
+    "static/css/main.903e2afe.chunk.css",
+    "static/js/main.a1f334a2.chunk.js"
+  ]
+}
